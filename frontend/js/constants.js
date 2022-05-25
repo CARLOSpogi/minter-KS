@@ -1,9 +1,9 @@
-const contractAddress = "0x69aBC9161f43b5bDf9e133f3aBcc2c8d996E607b"; //Replace with your own contract address
+const contractAddress = "0x59C0d6719FE97B54F112C1528DA76A0DD1357515"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Krazy Squirrels!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Krazy Squirrels is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Hey there do you have any Nuts? Uhmmm...never mind. Krazy Squirrels is collection of 4999 unique and crazy squirrels living in a dark forest of polygon blockchain that give you membership access to The Cabin: Krazy Squirrels holders can participate in exclusive events,such as community giveaways,raffles,and even free to mint NFT drops and more. Attention! All of them are extremely crazy but some are more badass and rare"';
 const h1_presale_coming_soon = "NFT Drop Coming Soon !!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
